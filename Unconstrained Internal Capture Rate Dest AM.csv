@@ -1,0 +1,7 @@
+Dest_Ori,From_Office,From_Retail,From_Restaurant,From_Cinema_Entertainment,From_Residential,From_Hotel
+To_Office,,0.04,0.14,0.00,0.03,0.03
+To_Retail,0.32,,0.08,0.00,0.17,0.04
+To_Restaurant,0.23,0.50,,0.00,0.20,0.06
+To_Cinema_Entertainment,0.00,0.00,0.00,,0.00,0.00
+To_Residential,0.00,0.02,0.05,0.00,,0.00
+To_Hotel,0.00,0.00,0.04,0.00,0.00,
